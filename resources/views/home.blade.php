@@ -9,6 +9,10 @@
 
 				<div class="panel-body">
 					Welcome !
+
+					<br>
+
+					WELCOME HOME
 				</div>
 			</div>
 		</div>
